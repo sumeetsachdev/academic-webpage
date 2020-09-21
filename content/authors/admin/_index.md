@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Pandit Deendayal Petroleum University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
